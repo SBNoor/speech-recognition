@@ -1,0 +1,9 @@
+numpy
+python_speech_features
+tensorflow
+PyYAML
+tqdm
+librosa
+scikit-learn
+click
+pytest
